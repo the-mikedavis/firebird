@@ -1,8 +1,8 @@
-"  ___       ___  ________  _______   ________  _________  ___  ________   _______      
-" |\  \     |\  \|\   __  \|\  ___ \ |\   __  \|\___   ___\\  \|\   ___  \|\  ___ \     
-" \ \  \    \ \  \ \  \|\ /\ \   __/|\ \  \|\  \|___ \  \_\ \  \ \  \\ \  \ \   __/|    
-"  \ \  \    \ \  \ \   __  \ \  \_|/_\ \   _  _\   \ \  \ \ \  \ \  \\ \  \ \  \_|/__  
-"   \ \  \____\ \  \ \  \|\  \ \  \_|\ \ \  \\  \|   \ \  \ \ \  \ \  \\ \  \ \  \_|\ \ 
+"  ___       ___  ________  _______   ________  _________  ___  ________   _______
+" |\  \     |\  \|\   __  \|\  ___ \ |\   __  \|\___   ___\\  \|\   ___  \|\  ___ \
+" \ \  \    \ \  \ \  \|\ /\ \   __/|\ \  \|\  \|___ \  \_\ \  \ \  \\ \  \ \   __/|
+"  \ \  \    \ \  \ \   __  \ \  \_|/_\ \   _  _\   \ \  \ \ \  \ \  \\ \  \ \  \_|/__
+"   \ \  \____\ \  \ \  \|\  \ \  \_|\ \ \  \\  \|   \ \  \ \ \  \ \  \\ \  \ \  \_|\ \
 "    \ \_______\ \__\ \_______\ \_______\ \__\\ _\    \ \__\ \ \__\ \__\\ \__\ \_______\
 "     \|_______|\|__|\|_______|\|_______|\|__|\|__|    \|__|  \|__|\|__| \|__|\|_______|
 
@@ -75,7 +75,7 @@ highlight PreProc              guifg=#d75f00  guibg=NONE     gui=NONE       cter
 highlight Function             guifg=#d70000  guibg=NONE     gui=NONE       ctermfg=197    ctermbg=NONE  cterm=NONE
 highlight Identifier           guifg=#d7005f  guibg=NONE     gui=NONE       ctermfg=197    ctermbg=NONE  cterm=NONE
 highlight Statement            guifg=#d70000  guibg=NONE     gui=NONE       ctermfg=160    ctermbg=NONE  cterm=NONE
-highlight Constant             guifg=#ffff00  guibg=NONE     gui=NONE       ctermfg=226   ctermbg=NONE  cterm=NONE
+highlight Constant             guifg=#ffff00  guibg=NONE     gui=NONE       ctermfg=220   ctermbg=NONE  cterm=NONE
 highlight Type                 guifg=#d75f00  guibg=NONE     gui=NONE       ctermfg=166   ctermbg=NONE  cterm=NONE
 highlight String               guifg=#ffd700  guibg=NONE     gui=NONE       ctermfg=220   ctermbg=NONE  cterm=NONE
 highlight Special              guifg=#af8787  guibg=NONE     gui=NONE       ctermfg=138   ctermbg=NONE  cterm=NONE
