@@ -23,8 +23,8 @@ highlight htmlStatement        guifg=#d70000  guibg=NONE     gui=NONE       cter
 highlight htmlArg              guifg=#d70000  guibg=NONE     gui=NONE       ctermfg=160    ctermbg=NONE  cterm=NONE
 highlight htmlItalic           guifg=#ffffdf  guibg=NONE     gui=NONE       ctermfg=230   ctermbg=NONE  cterm=NONE
 
-highlight DiffText             guifg=#d70000  guibg=#87d7d7  gui=reverse    ctermfg=160    ctermbg=116   cterm=reverse
-highlight DiffAdd              guifg=#d70000  guibg=#87d7d7  gui=reverse    ctermfg=160    ctermbg=116   cterm=reverse
+highlight DiffText             guifg=#d70000  guibg=#d75f00  gui=reverse    ctermfg=160    ctermbg=166   cterm=reverse
+highlight DiffAdd              guifg=#d70000  guibg=#ffffd7  gui=reverse    ctermfg=160    ctermbg=230   cterm=reverse
 highlight DiffDelete           guifg=#af5f5f  guibg=#af5f5f  gui=reverse    ctermfg=131   ctermbg=131   cterm=reverse
 highlight DiffChange           guifg=#005f5f  guibg=NONE     gui=reverse    ctermfg=23    ctermbg=NONE  cterm=reverse
 
