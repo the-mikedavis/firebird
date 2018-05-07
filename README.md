@@ -1,6 +1,6 @@
 # Firebird
 
-I'm tired of blue-centric Vim themes. What's wrong with a wark color palette
+I'm tired of blue-centric Vim themes. What's wrong with a warm color palette
 anyway?
 
 Firebird is a very simple theme based on
